@@ -1,0 +1,10 @@
+<Solution>
+  <Folder Name="/src/">
+    <Project Path="src/Gcs.Client.Application/Gcs.Client.Application.csproj" />
+    <Project Path="src/Gcs.Client.Console/Gcs.Client.Console.csproj" />
+    <Project Path="src/Gcs.Client.Grpc/Gcs.Client.Grpc.csproj" />
+  </Folder>
+  <Folder Name="/tests/">
+    <Project Path="tests/Gcs.Client.Tests/Gcs.Client.Tests.csproj" />
+  </Folder>
+</Solution>
