@@ -1,4 +1,4 @@
-# GCS Client
+# GCS Console Client
 
 Minimal .NET 10 console MVVM client for gcs-core's `SubscribeTelemetry` gRPC
 server stream. Prints each notification, including WAITING without a position
